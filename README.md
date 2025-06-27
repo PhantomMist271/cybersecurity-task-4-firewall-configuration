@@ -33,10 +33,6 @@ Telnet uses port 23 and is known for being insecure. Blocking this port is a sta
 - 📸 Screenshot: `block_port_23_rule_creation.png`
 - 📸 Screenshot: `block_port_23_rule_added.png`
 
-### ✅ Step 3: Deleted the Rule
-To return the system to its original state, the rule was deleted.
-- 📸 Screenshot (optional): `rule_deleted.png`
-
 ---
 
 ## 🧠 Key Learnings
@@ -58,7 +54,7 @@ cybersecurity-task-4-firewall-configuration/
     ├── firewall_rules_list.png
     ├── block_port_23_rule_creation.png
     ├── block_port_23_rule_added.png
-    └── rule_deleted.png (optional)
+    
 ```
 
 ---
