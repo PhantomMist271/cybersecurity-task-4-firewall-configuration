@@ -7,7 +7,7 @@ Understand how a firewall filters traffic, create and manage rules, and simulate
 ---
 
 ## 💻 System Used
-- **Operating System:** Windows 10
+- **Operating System:** Windows 11
 - **Tool:** Windows Defender Firewall with Advanced Security
 
 ---
